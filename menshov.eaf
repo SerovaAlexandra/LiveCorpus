@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-11-25T21:48:58+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/Disk D/Универ 1курс/Прога и КИЛИ/Корпус интервью_2 модуль/Отрывок.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Отрывок.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:44d61aac-7833-4ad5-b711-fb4d10f07baf</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">85</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="5300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="10200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="10201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="12974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="12993"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="13662"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="13688"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15383"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="16246"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="17779"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="18324"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="19610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="19616"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="20136"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="20519"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="21902"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="21915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="23889"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="23902"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="28402"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="28428"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="29435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="29987"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="33350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="33487"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="35129"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="35168"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="37090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="38233"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="41961"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="42324"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="46824"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="48441"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="53454"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="54974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="60220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="60220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="64889"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="65155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="66668"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="66811"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="68220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="69149"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="72220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="73253"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="79727"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="80681"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="82487"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="82538"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="83149"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="83538"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="87103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="88889"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="90220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="90487"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="92441"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="92954"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="96311"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="96681"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="102623"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="103246"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="106961"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="107876"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="112564"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="113980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="118090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="119564"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="121811"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="122805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="124922"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="125415"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="126629"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="127025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="129123"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="129123"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="130376"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="130480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="131045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="132168"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="133129"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="133266"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="137766"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="139240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="141038"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="141629"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="145779"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="146428"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="147603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="149909"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="153863"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="154922"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="160506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="160941"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="165551"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="166344"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="169123"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="169233"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="170870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="171103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="173038"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="173136"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="176181"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="176350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="177714"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="180785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="187012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="187805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="189610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="189740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="195506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="196610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="199493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="199922"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="205116"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="207045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="209149"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="211292"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="212753"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="213090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="213441"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="214155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="221201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="221266"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="223551"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="224519"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="226305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="226402"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="234006"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="234142"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="235857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="236389"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="243168"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="243857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="248116"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="248564"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="258077"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="258272"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="263629"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="264974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="268603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="269279"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="270038"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="270837"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="272370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="272376"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="274441"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="275577"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="290103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="290194"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="290720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="291181"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="291870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="291967"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="297201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="297448"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="306993"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="307240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="311512"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="utterance" TIER_ID="K-Spch"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="utterance" TIER_ID="W-Spch"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gestures" TIER_ID="W-RGU"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gestures" TIER_ID="K-RGU"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="words" PARENT_REF="W-Spch" TIER_ID="W-Words"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="phonetic_transcription" PARENT_REF="W-Spch" TIER_ID="W-IPA"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_phases" PARENT_REF="W-RGU" TIER_ID="W-RGph"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_phases" PARENT_REF="K-RGU" TIER_ID="K-RGph"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="W-Words" TIER_ID="W-POS"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="W-RGph" TIER_ID="W-RGMe"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="K-RGph" TIER_ID="K-RGMe"/>
+    <TIER ANNOTATOR="@aas2001f" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@vvm1939m" TIER_ID="@vvm1939m-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE> уже выросли / молодые которые/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>да/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>они не очень эти темы трогают</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>вообще не очень/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>нет не трогают</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>да/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ффф</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>научиться профессии/зарабатывать деньги/от профессии/как вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>тот/как кто сумел и так далее</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>вот им/это это их интересует</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>у меня какие-то #покашливание# </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> идейные споры идут/с внуком</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>там семнадцать лет/вот он уже гораздо более/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>революционно настроен/я понимаю/что это поколение/это не только</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>но пока что это глупо/то/что он говорит</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ну в принципе что все плохо</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>все плохо</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>все/начальство не то/люди не те</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>э надо гораздо острее и сильнее действовать и так далее э</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>угу/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>нет/не пожалел</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>честно вам скажу/меня куда-то там присоединяют время от времени</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>я никуда не плачу взносы/ничего не знаю/все равно время от времени я имею какую-то/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>ээ какую-то бумажку получаю</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>но я не/если не плачу взносы/то кто я?/никто наверное/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>в основном в качестве председателя жюри</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>смотрю картины</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>и кино неплохие бывают/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>фильмы неплохие</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>вот сейчас я был председателем жюри на Сахалине/там было</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>э из сериальных фильмов</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>я должен сказать/что сериалы очень интересные/очень просто</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>ну вот этот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>и с/пониманием/и с юмором и с/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>решениями/«Домашний арест»/потом/«Звоните Ди Каприо»</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>очень талантливый человек/Жора Крыжовников</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>потом «Ненастье»</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>вы даже не знаете эти фильмы, да?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>#смеется# напрасно/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>если не сериалы?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>ну у меня из/сильных ощущений/это картина «Горько»</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>и «Горько два» тоже хорошее</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>в общем этот Жора Крыжовников/который очень ярко начал и/продолжает быть/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>продолжает снимать очень яркие фильмы</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>даже «Самый лучший день»/такой дурашливый фильм/но все равно смешной и</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>у него добрые картины</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>да/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>да меня было тоже полоскали за то что я таких/дурачков/вывел в картине/«Любовь и голуби»</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>тоже полоскали так что я как</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>это надо чуть-чуть чтобы время прошло/чтобы осело в памяти/и по по…потом/чего я/придирался к картине?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>нет-нет она/«Горько»/«Горько»</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>ну что вот это свадьба/и поэтому естественно там много дурного/на свадьбе бы-бывает/но в принципе она добрая</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>вот это мне в меньшей степени/привлекает</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>не очень/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>черт его/я не могу сказать вам что</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>но как-то это/начинает сразу/начиная с костюмов/которые не не достоверны/лица не достоверны/прически/все это</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts159">
+                <ANNOTATION_VALUE>да-да/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>да/поскольку мы-то видели настоящие военные картины/еще снятые даже во время войны</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>а уж после войны сколько было таких настоящих картин</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="@aas2001f" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@kvs1980m" TIER_ID="@kvs1980m-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>приходят к вам учиться/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>вы преподаете и вы разговариваете с ними/и как вот общий язык</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>вы их не трогаете/или они не хотят об этом говорить?/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>а их /им вообще все равно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>а что их интересует?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>тот самый Олег?/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>в какую сторону/простите/революционно/тоже на о о о</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>это дед еще доверенное лицо Путина</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>#смеется# вы кстати не пожалели об этом решении?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>вам предлагали в «Единую Россию» вступить?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>состояние сегодняшнего нашего кино/вы/вы в кино бываете?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>с той стороны экрана/со зрительской</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>то есть не все так страшно и здесь?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>если это не сериалы/то то то что/и какие имена?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>«Горько»/народный фильм?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>а говорят/людей там в неприглядном свете представили/будто бы все такие/в стране у нас</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>то есть как бы большая дистанция между любовью и</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>«Любовь и голуби» и «Горько»?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>патриотическое кино/его состояние как вам?/танки/самолеты</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>почему/не получается или?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>той эпохи/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>то есть вот эта попытка/реинкарнации/воссоздания/ Советского союза/она никогда не бывает удачной?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" CONTROLLED_VOCABULARY_REF="Gesture phases" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_de29a0c1-aed1-4c0e-9f50-813190143127">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ce5bffb0-3d8a-44db-9c64-9512aeae0618">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8ba003d1-2b86-42c0-8379-841eadf74096">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_37dc1a02-5df7-47d2-b5d3-f79c9766b6a8">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_54467de6-59b8-4065-85cc-1835e30be398">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c0be74e1-0c30-47ee-9a93-ea1d39c32180">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_71df84d3-0dcb-4fab-bac9-6a67e6858acc">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0405adb0-9149-4eff-9fcf-6c5fc9ca22ff">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_32eee352-d052-4883-802d-e9a0bc3211e9">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_425134be-e03c-4dfe-b52f-1349aa4fcb6f">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_af729398-d30a-418e-949e-72114103bf23">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fbb72bab-c8d3-4799-9ab7-596950b1298d">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b9927304-18ef-4bc9-9b02-99c51c382680">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1cb00eb6-0019-4f79-90b6-9657a8af6a96">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e67121ea-bfac-4333-870a-c12eb564dc03">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_97fd1136-7418-434e-88fb-1ca7c9c1cee7">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_10b106f3-871f-4846-9c32-f64f3e6b0d61">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
